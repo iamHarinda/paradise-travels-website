@@ -4316,14 +4316,14 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #1C16AF;
+  background-color: #6f42c1;
   border-color: #6f42c1;
   -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075);
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075);
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #045bc1;
+  background-color: #5e38a4;
   border-color: #59359a;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
